@@ -760,6 +760,9 @@ nav .hamburger {
 }
 @media (max-width: 767px) {
 
+  .projects {
+    padding: 0;
+  }
  /* NavbarStyles.css */
  nav {
   position: relative; 
