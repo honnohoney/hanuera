@@ -954,8 +954,6 @@ nav .hamburger {
     padding: 0;
     display: flex;
     flex-direction: column;
-    width: 100vw;
-    height: 100%;
   }
   .contact-card {
     width: 85%;
