@@ -950,8 +950,11 @@ nav .hamburger {
     margin: .2rem;
   }
   .contact {
-    overflow-y: auto;
+    overflow-y: cursor;
+    overflow: hidden;
+    height: 100dvh;
     padding: 0;
+    margin: 0;
     display: flex;
     flex-direction: column;
   }
